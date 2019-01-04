@@ -1,0 +1,37 @@
+#main {
+  background-color: lightgray;
+}
+
+#title{
+  background-color: yellow;
+}
+
+#img-div{
+  background-color: blue;
+}
+
+#image{
+  
+}
+
+#img-caption{
+  color: white;
+}
+
+#tribute-info{
+  background-color: red;
+}
+
+#tribute-link{
+  background-color: silver;
+  target="_blank"
+}
+
+img {
+  max-width: 100%;
+  width: 50%;
+  vw: 90vw;
+  display: block;
+  height: auto;
+  margin: auto;
+}
