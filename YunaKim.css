@@ -1,37 +1,55 @@
+h3{
+  text-align: center;
+  color: #130f40;
+}
+
+p {
+  font-weight: normal;
+  margin: 10px 30px 10px 30px;
+}
+
+
+ul {
+  font-weight: normal;
+}
+
 #main {
-  background-color: lightgray;
+  background-color: #c7ecee;
+  font-family: 'Roboto Slab';
 }
 
 #title{
-  background-color: yellow;
+  text-align: center;
+  color: blue;
+  font-size: 4em;
 }
 
 #img-div{
   background-color: blue;
+  margin: 0px 50px 0px 50px;
 }
 
 #image{
-  
-}
-
-#img-caption{
-  color: white;
-}
-
-#tribute-info{
-  background-color: red;
-}
-
-#tribute-link{
-  background-color: silver;
-  target="_blank"
-}
-
-img {
-  max-width: 100%;
+  max-width: 90%;
   width: 50%;
   vw: 90vw;
   display: block;
   height: auto;
   margin: auto;
 }
+
+#img-caption{
+  color: gold;
+  text-align: center;
+  font-weight: bold;
+}
+
+#tribute-info{
+  font-weight: bold;
+  margin: 10px 50px 10px 50px;
+}
+
+#tribute-link{
+  
+}
+
